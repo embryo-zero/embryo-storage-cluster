@@ -1,7 +1,7 @@
 # Legal notes for Embryo Storage Cluster
 
 Embryo Storage Cluster is a modified version of **ceph** (https://github.com/ceph/ceph), copyright its authors.
-License (read from its license file on 2026-11-16): **AGPL-3.0**. Original license files, unchanged: COPYING, COPYING-GPL2, COPYING-LGPL2.1, COPYING-LGPL3.
+License (read from its license file on 2026-11-16): **LGPL-2.1 / LGPL-3.0 for most code, other files as marked (COPYING is a per-file list)** (read by a person). Original license files, unchanged: COPYING, COPYING-GPL2, COPYING-LGPL2.1, COPYING-LGPL3.
 
 - `COPYING`: Format-Specification: http://anonscm.debian.org/viewvc/dep/web/deps/dep5/copyright-format.xml?revision=279&view=markup / Name: ceph / Maintainer: Sage Weil <sage@newdream.net>
 - `COPYING-GPL2`: GNU GENERAL PUBLIC LICENSE / Version 2, June 1991 / Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
