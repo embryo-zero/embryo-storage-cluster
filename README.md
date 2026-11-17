@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Storage Cluster
+
+**Embryo Storage Cluster** is Embryo-Zero's fork of [ceph](https://github.com/ceph/ceph), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Ceph - a scalable distributed storage system
 
 See https://ceph.com/ for current information about Ceph.
